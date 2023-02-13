@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devansh Singh</h1>
 <h3 align="center">I am from India. I love Coding, I know in total 4 language of Coding</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevanshxDop](https://github.com/DevanshxDop)
 
@@ -10,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/MnncmwdXUf" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="simplified_learner" height="30" width="30" /></a>
-<a href="" arget="blank"><img align="center" src="https://i.ibb.co/vc3LNT7/cropped-pngwing-com-300x294.png" alt="simplified_learner" height="30" width="30" /></a>
+<a href="https://devanshop.live/" arget="blank"><img align="center" src="https://i.ibb.co/vc3LNT7/cropped-pngwing-com-300x294.png" alt="simplified_learner" height="30" width="30" /></a>
 <a href="https://www.youtube.com/@devanshgamer8813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
 
