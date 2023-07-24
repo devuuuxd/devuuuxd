@@ -1,25 +1,42 @@
-![logo](https://github.com/DevanshxDop/DevanshxDop/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Devansh Singh</h1>
-<h3 align="center">I am from India. I love Coding, I know in total 4 language of Coding</h3>
+<div align="center">
+  <img src="https://github.com/DevanshxDop/DevanshxDop/blob/main/Github%20Banner.png" alt="Devansh Singh" width="700px">
+  <h1>Hi, there! 👋 I'm Devansh Singh</h1>
+  <h3>I am from India. I love Coding, and I'm familiar with 4 coding languages 😎</h3>
+  
+  <a href="https://discord.gg/MnncmwdXUf" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" height="30" width="30" /></a>
+  <a href="https://devanshop.live/" target="blank"><img src="https://i.ibb.co/vc3LNT7/cropped-pngwing-com-300x294.png" alt="Personal Website" height="30" width="30" /></a>
+  <a href="https://www.youtube.com/@devanshgamer8813" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <br>
+  
+  <h3>Languages and Tools:</h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </p>
+  
+  <h3>Connect with me:</h3>
+  <p>
+    <a href="https://discord.gg/MnncmwdXUf" target="blank">Discord</a> |
+    <a href="https://devanshop.live/" target="blank">Personal Website</a> |
+    <a href="https://www.youtube.com/@devanshgamer8813" target="blank">YouTube</a>
+  </p>
+  
+  <h3>About IRIS:</h3>
+  <p>
+    IRIS is my latest AI-powered Discord bot that can do a lot of fun stuff! 🤖
+    You can invite IRIS to your server and have a great time with it! 😄
+  </p>
+  
+  <h3>GitHub Stats:</h3>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevanshxDop&show_icons=true&locale=en&layout=compact" alt="DevanshxDop" />
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevanshxDop&show_icons=true&locale=en" alt="DevanshxDop" />
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshxDop&" alt="DevanshxDop" />
+</div>
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/DevanshxDop](https://github.com/DevanshxDop)
-
-- ⚡ Fun fact **I am funny😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/MnncmwdXUf" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="simplified_learner" height="30" width="30" /></a>
-<a href="https://devanshop.live/" arget="blank"><img align="center" src="https://i.ibb.co/vc3LNT7/cropped-pngwing-com-300x294.png" alt="simplified_learner" height="30" width="30" /></a>
-<a href="https://www.youtube.com/@devanshgamer8813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://top.gg/api/widget/1071623957205237771.svg" alt="IRIS on Discord Bots" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<h3 align="left">Support:</h3>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevanshxDop&show_icons=true&locale=en&layout=compact" alt="DevanshxDop" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevanshxDop&show_icons=true&locale=en" alt="DevanshxDop" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshxDop&" alt="DevanshxDop" /></p>
