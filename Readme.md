@@ -18,9 +18,9 @@
   
   <h3>Connect with me:</h3>
   <p>
-    <a href="https://discord.gg/MnncmwdXUf" target="blank">Discord</a> |
+    <a href="https://discord.gg/QM67YC5CXr" target="blank">Discord</a> |
     <a href="https://devanshop.live/" target="blank">Personal Website</a> |
-    <a href="https://www.youtube.com/@devanshgamer8813" target="blank">YouTube</a>
+    <a href="https://www.youtube.com/channel/UCeBm3f4bkbbPI0Ll5PZYGfw" target="blank">YouTube</a>
   </p>
   
   <h3>About IRIS:</h3>
