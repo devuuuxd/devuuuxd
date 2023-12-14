@@ -5,7 +5,7 @@
   
   <a href="https://discord.gg/MnncmwdXUf" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" height="30" width="30" /></a>
   <a href="https://devanshop.live/" target="blank"><img src="https://i.ibb.co/vc3LNT7/cropped-pngwing-com-300x294.png" alt="Personal Website" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/@devanshgamer8813" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@devanshopxd" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
   <br>
   
   <h3>Languages and Tools:</h3>
