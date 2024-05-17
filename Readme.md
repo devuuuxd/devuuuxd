@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/DevanshxDop/DevanshxDop/blob/main/Github%20Banner.png" alt="Devansh Singh" width="700px">
+  <img src="https://github.com/devuuuuxd/devuuuuxd/blob/main/Github%20Banner.png" alt="Devansh Singh" width="700px">
   <h1>Hi, there! 👋 I'm Devansh Singh</h1>
   <h3>I am from India. I love Coding, and I'm familiar with 4 coding languages 😎</h3>
   
@@ -30,11 +30,11 @@
   </p>
   
   <h3>GitHub Stats:</h3>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevanshxDop&show_icons=true&locale=en&layout=compact" alt="DevanshxDop" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devuuuuxd&show_icons=true&locale=en&layout=compact" alt="devuuuuxd" />
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevanshxDop&show_icons=true&locale=en" alt="DevanshxDop" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devuuuuxd&show_icons=true&locale=en" alt="devuuuuxd" />
   <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshxDop&" alt="DevanshxDop" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devuuuuxd&" alt="devuuuuxd" />
 </div>
 
 <p align="center">
