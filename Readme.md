@@ -15,7 +15,12 @@ I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS*
 <img src="https://github-readme-streak-stats.herokuapp.com?user=devuuuxd&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devuuuxd&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
 
+## 💬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
 ## ✨ Random Dev Quote
-<!-- QUOTE_PLACEHOLDER -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote">
 
 </div>
