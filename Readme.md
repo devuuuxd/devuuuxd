@@ -1,6 +1,6 @@
 <div align="center">
 
-![Welcome](Welcome.png)
+![failed to load 😭😭](Welcome.png)
 
 # 👋 Hello, I'm Devu!
 
