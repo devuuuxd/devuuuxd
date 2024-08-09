@@ -1,42 +1,26 @@
 <div align="center">
-  <img src="https://github.com/devuuuuxd/devuuuuxd/blob/main/Github%20Banner.png" alt="Devansh Singh" width="700px">
-  <h1>Hi, there! 👋 I'm Devansh Singh</h1>
-  <h3>I am from India. I love Coding, and I'm familiar with 4 coding languages 😎</h3>
-  
-  <a href="https://discord.gg/MnncmwdXUf" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" height="30" width="30" /></a>
-  <a href="https://devanshop.live/" target="blank"><img src="https://i.ibb.co/vc3LNT7/cropped-pngwing-com-300x294.png" alt="Personal Website" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/@devanshopxd" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <br>
-  
-  <h3>Languages and Tools:</h3>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </p>
-  
-  <h3>Connect with me:</h3>
-  <p>
-    <a href="https://discord.gg/QM67YC5CXr" target="blank">Discord</a> |
-    <a href="https://devanshop.live/" target="blank">Personal Website</a> |
-    <a href="https://www.youtube.com/channel/UCeBm3f4bkbbPI0Ll5PZYGfw" target="blank">YouTube</a>
-  </p>
-  
-  <h3>About IRIS:</h3>
-  <p>
-    IRIS is my latest AI-powered Discord bot that can do a lot of fun stuff! 🤖
-    You can invite IRIS to your server and have a great time with it! 😄
-  </p>
-  
-  <h3>GitHub Stats:</h3>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devuuuuxd&show_icons=true&locale=en&layout=compact" alt="devuuuuxd" />
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devuuuuxd&show_icons=true&locale=en" alt="devuuuuxd" />
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devuuuuxd&" alt="devuuuuxd" />
-</div>
 
-<p align="center">
-  <img src="https://top.gg/api/widget/1071623957205237771.svg" alt="IRIS on Discord Bots" />
-</p>
+# 👋 Hello, I'm Devu!
+
+I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS**, and **HTML**. I enjoy creating efficient and user-friendly applications that make a difference. When I'm not coding, you can find me exploring new technologies, learning something new, or enjoying a good cup of coffee. Let's connect and collaborate on exciting projects!
+
+## 🚀 Tech Stack
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com)
+[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![CSS](https://img.shields.io/badge/css-%23239120.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
+
+## 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=devuuuxd&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devuuuxd&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devuuuxd&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
+
+## 💬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
+## ✨ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote">
+
+</div>
