@@ -17,8 +17,10 @@ I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS*
 
 ## 💬 Let's Connect
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@devuuuu_xd)
+[![Fiverr](https://img.shields.io/badge/Fiverr-%2348A8D2.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/devuuu_died)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devuuuxd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-singh-05b83427a/)
+[![Bento](https://img.shields.io/badge/Bento-%23F7B800.svg?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/devuuu)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1219568207719960578)
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3136yttmfeezacwefkenbombogme)
 
