@@ -1,6 +1,6 @@
 <div align="center">
 
-![Welcome](welcome.png)
+![Welcome](Welcome.png)
 
 # 👋 Hello, I'm Devu!
 
