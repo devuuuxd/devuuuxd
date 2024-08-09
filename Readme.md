@@ -16,6 +16,11 @@ I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS*
 <img src="https://github-readme-stats.vercel.app/api?username=devuuuxd&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=devuuuxd&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devuuuxd&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devuuuxd&bg_color=00000000&color=ffffff&line=00bfff&point=1e90ff&area=true&hide_border=true" alt="Activity Graph">
+
+## 🧳 Visitor Count
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=devuuuxd.devuuuxd)
+<img src="https://komarev.com/ghpvc/?username=devuuuxd" alt="devuuuxd" />
 
 ## 💬 Let's Connect
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@devuuuu_xd)
