@@ -1,5 +1,7 @@
 <div align="center">
 
+![Welcome](welcome.png)
+
 # 👋 Hello, I'm Devu!
 
 I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS**, and **HTML**. I enjoy creating efficient and user-friendly applications that make a difference. When I'm not coding, you can find me exploring new technologies, learning something new, or enjoying a good cup of coffee. Let's connect and collaborate on exciting projects!
