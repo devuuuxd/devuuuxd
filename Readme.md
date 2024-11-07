@@ -11,6 +11,7 @@ I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS*
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![CSS](https://img.shields.io/badge/css-%23239120.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
+<a href="https://app.daily.dev/devuuudied"><img src="https://api.daily.dev/devcards/v2/j4bKEQgzW8RGVLOSYbIwx.png?r=avd&type=wide" width="652" alt="Devansh's Dev Card"/></a>
 
 ## 📈 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=devuuuxd&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub Stats">
