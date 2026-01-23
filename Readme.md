@@ -18,10 +18,28 @@ I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS*
 <a href="https://app.daily.dev/devuuudied"><img src="https://api.daily.dev/devcards/v2/j4bKEQgzW8RGVLOSYbIwx.png?r=avd&type=wide" width="652" alt="Devansh's Dev Card"/></a>
 
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=devuuuxd&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=devuuuxd&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devuuuxd&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devuuuxd&bg_color=00000000&color=ffffff&line=00bfff&point=1e90ff&area=true&hide_border=true" alt="Activity Graph">
+<p align="center">
+  <table cellpadding="6">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=devuuuxd&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="480"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devuuuxd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="260"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding-top:8px">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=devuuuxd&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="740"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=devuuuxd&bg_color=00000000&color=00bfff&line=ff69b4&point=00bfff&area=true&hide_border=true" alt="Activity Graph" width="820"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## 🧳 Visitor Count
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=devuuuxd.devuuuxd)
@@ -40,4 +58,5 @@ I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS*
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote">
 
 </div>
+
 
