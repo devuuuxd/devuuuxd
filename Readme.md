@@ -12,6 +12,9 @@ I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS*
 [![CSS](https://img.shields.io/badge/css-%23239120.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)](#)
+
 <a href="https://app.daily.dev/devuuudied"><img src="https://api.daily.dev/devcards/v2/j4bKEQgzW8RGVLOSYbIwx.png?r=avd&type=wide" width="652" alt="Devansh's Dev Card"/></a>
 
 ## 📈 GitHub Stats
@@ -37,3 +40,4 @@ I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS*
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote">
 
 </div>
+
