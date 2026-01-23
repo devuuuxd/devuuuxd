@@ -28,11 +28,15 @@ I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS*
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devuuuxd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="260"/>
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center" style="padding-top:8px">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=devuuuxd&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="740"/>
-      </td>
-    </tr>
+<tr>
+  <td colspan="2" align="center" style="padding-top:10px">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devuuuxd&theme=transparent"
+      alt="GitHub Profile Summary"
+      width="820"
+    />
+  </td>
+</tr>
     <tr>
       <td colspan="2" align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=devuuuxd&bg_color=00000000&color=00bfff&line=ff69b4&point=00bfff&area=true&hide_border=true" alt="Activity Graph" width="820"/>
@@ -58,5 +62,6 @@ I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS*
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote">
 
 </div>
+
 
 
