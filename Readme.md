@@ -37,11 +37,6 @@ I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS*
     />
   </td>
 </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=devuuuxd&bg_color=00000000&color=00bfff&line=ff69b4&point=00bfff&area=true&hide_border=true" alt="Activity Graph" width="820"/>
-      </td>
-    </tr>
   </table>
 </p>
 
@@ -62,6 +57,7 @@ I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS*
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote">
 
 </div>
+
 
 
 
