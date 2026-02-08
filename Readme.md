@@ -2,65 +2,82 @@
 
 ![failed to load 😭😭](Welcome.png)
 
-# 👋 Hello, I'm Devu!
+# 👋 Hello, I'm Devu
 
-I'm a passionate developer with experience in **JavaScript**, **Python**, **CSS**, and **HTML**. I enjoy creating efficient and user-friendly applications that make a difference. When I'm not coding, you can find me exploring new technologies, learning something new, or enjoying a good cup of coffee. Let's connect and collaborate on exciting projects!
+## 📍 About Me
+
+My name is **Devansh**. I am 17.
+
+I use GitHub to store and share code.  
+Most repositories here are written in **JavaScript**, with some use of **HTML**, and **CSS**.
+
+I have also completed small paid coding tasks outside GitHub, including work done through platforms such as Fiverr.
+
+This profile contains projects I have uploaded over time.  
+Some repositories are experiments, some are incomplete, and others are functional.
+
+---
 
 ## 🚀 Tech Stack
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com)
-[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
-[![Node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 
-<a href="https://app.daily.dev/devuuudied"><img src="https://api.daily.dev/devcards/v2/j4bKEQgzW8RGVLOSYbIwx.png?r=avd&type=wide" width="652" alt="Devansh's Dev Card"/></a>
-
-## 📈 GitHub Stats
 <p align="center">
-  <table cellpadding="6">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=devuuuxd&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="480"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devuuuxd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="260"/>
-      </td>
-    </tr>
-<tr>
-  <td colspan="2" align="center" style="padding-top:10px">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devuuuxd&theme=transparent"
-      alt="GitHub Profile Summary"
-      width="820"
-    />
-  </td>
-</tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,mongodb,mysql,git&theme=dark" />
 </p>
 
-## 🧳 Visitor Count
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=devuuuxd.devuuuxd)
-<img src="https://komarev.com/ghpvc/?username=devuuuxd" alt="devuuuxd" />
+---
 
-## 💬 Let's Connect
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@devuuuu_xd)
-[![Fiverr](https://img.shields.io/badge/Fiverr-%2348A8D2.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/devuuu_died)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devuuuxd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshhhh/)
-[![Bento](https://img.shields.io/badge/Bento-%23F7B800.svg?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/devuuu)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1219568207719960578)
-[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3136yttmfeezacwefkenbombogme)
+## 📈 GitHub Stats
 
-## ✨ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote">
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=devuuuxd&show_icons=true&theme=dark"
+    width="420"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=devuuuxd&theme=dark"
+    width="420"
+  />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<img
+  src="https://streak-stats.demolab.com/?user=devuuuxd&theme=dark"
+  width="860"
+/>
+
+---
+
+## 📊 Activity Summary
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devuuuxd&theme=dark"
+  width="860"
+/>
+
+---
+
+## 🧳 Profile Views
+
+<img
+  src="https://komarev.com/ghpvc/?username=devuuuxd&style=flat-square&color=blue"
+/>
+
+---
+
+## 💬 Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/devuuuxd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devanshhhh/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@devuuuu_xd)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/1219568207719960578)
+
+---
+
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+/>
 
 </div>
-
-
-
-
-
-
-
