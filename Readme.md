@@ -21,7 +21,7 @@ Some repositories are experiments, some are incomplete, and others are functiona
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,mongodb,mysql,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,cpp,c,mongodb,mysql,git&theme=dark" />
 </p>
 
 ---
